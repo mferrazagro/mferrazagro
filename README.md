@@ -1,6 +1,6 @@
 - Agronomist  🍅🌽🌱🌾
 - Bussiness Inteligence, Marketing, Comercial Suport. 💻📊📈
-- Microsoft Power BI |  Python | R | SQL| 💼📁💻
+- Microsoft Power BI (DAX, M language) |  Python | R | SQL| 💼📁💻
 
 <div align="left">
   <a href="https://github.com/mferrazagro">
