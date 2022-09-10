@@ -1,4 +1,5 @@
 - Agronomist 🍅🌽🌱🌾
+- CRM Analyst 
 - Power BI, Data Science, Bussiness Inteligence, Comercial Suport. 💻📊📈
 - Python | SQL |💼📁💻👨‍💻
 
